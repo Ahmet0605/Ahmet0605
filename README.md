@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Ahmet0605
+- 👀 I’m interested in OOP
